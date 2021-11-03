@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  SPY_NETWORK:0 "$spy_network$"
  SPY_NETWORK_NAME:0 "$spy_network$"
  SPYNETWORK_ASSETS:0 "Spie"
@@ -428,7 +428,7 @@
  operation.8001.name:0 "Cellule potenziali identificate"
  operation.8001.desc:0 "È stato definito un elenco di obiettivi e i nostri agenti si sono silenziosamente fatti strada verso la posizione. Attendono il nostro segnale per iniziare a stabilire cellule dormienti."
  operation.8002.name:0 "Cellule Dormienti Acquisite"
- operation.8002.desc.start:0 "I Rapporti dall' §HOperazione [This.GetName]§! sono favorevoli fino a questo momento:"
+ operation.8002.desc.start:0 "I Rapporti dall'Operazione §H[This.GetName]§! sono favorevoli fino a questo momento:"
  operation.8002.desc.boring:0 "$operation.8002.desc.start$ I nostri agenti si sono nascosti con successo in una moltitudine di posizioni nella società [root.target.GetAdj], celandosi in un luogo ordinario e fingendo di essere comuni cittadini. $operation.8002.desc.end$"
  operation.8002.desc.materialist:0 "$operation.8002.desc.start$ un afflusso di crediti misteriosi e irrintracciabili ha fornito, ai nostri agenti, il potere finanziario e le false referenze necessari per insidiarsi in posizioni di medio livello in molte delle principali società [root.target.GetAdj]. $operation.8002.desc.end$"
  operation.8002.desc.megacorp:0 "$operation.8002.desc.start$ un afflusso di crediti misteriosi e irrintracciabili ha fornito, ai nostri agenti, il potere finanziario e le false referenze necessari per insidiarsi in posizioni di medio livello nella Megacorporazione [root.target.GetAdj]. $operation.8002.desc.end$"
